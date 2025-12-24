@@ -1,2 +1,5 @@
-# fallah
-i am programmer
+# Simple Interest Calculator
+A simple Python script to calculate interest based on principal, rate, and time.
+
+## Formula
+The formula used is: `A = P(1 + rt)`
