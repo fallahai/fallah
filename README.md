@@ -28,5 +28,4 @@ Then:
 This calculator can be implemented in any programming language or used for educational purposes to understand how simple interest works.
 
 ## Author
-Your Name
-
+fallah
